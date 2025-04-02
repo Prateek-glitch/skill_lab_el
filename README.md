@@ -36,8 +36,7 @@ Welcome to my GitHub! Here you'll find categorized resources and projects. Click
 
 ### 🎯 How to Use
 1. Click on any folder name to access the related files.
-2. Navigate through the documents and download as needed.
-3. Stay tuned for more updates! 🚀
+2. Navigate through the documents and download as needed. 🚀
 
 ### 🔗 Connect with Me
 💼 **GitHub:** [Prateek's](https://github.com/Prateek-glitch)  
