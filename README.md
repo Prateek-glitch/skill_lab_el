@@ -40,7 +40,7 @@ Welcome to my GitHub! Here you'll find categorized resources and projects. Click
 3. Stay tuned for more updates! 🚀
 
 ### 🔗 Connect with Me
-💼 **GitHub:** [YourGitHubProfile](https://github.com/Prateek-glitch)  
+💼 **GitHub:** [Prateek's](https://github.com/Prateek-glitch)  
 📧 **Email:** prtksingh04@gmail.com  
 
 ---
